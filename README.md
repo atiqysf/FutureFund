@@ -1,4 +1,4 @@
-# Future Fund
+# FutureFund
 FutureFund - Android Expense Planner Application
 
 ## App Feature
